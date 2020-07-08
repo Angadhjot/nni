@@ -18,5 +18,5 @@ Neural Network Intelligence
     参考<reference>
     社区分享 <CommunitySharings/community_sharings>
     常见问题 <Tutorial/FAQ>
-    如何贡献 <contribution>
+    How to Contribute <contribution>
     更改日志 <Release>

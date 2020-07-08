@@ -351,8 +351,8 @@
 * 修复表格的 Bug
 * 优化嵌套搜索空间
 * 优化 'randint' 类型，并支持下限
-* [比较不同超参搜索调优算法](CommunitySharings/HpoComparision.md)
-* [NAS 算法的对比](CommunitySharings/NasComparision.md)
+* [比较不同超参搜索调优算法](CommunitySharings/HpoComparison.md)
+* [NAS 算法的对比](CommunitySharings/NasComparison.md)
 * [Recommenders 上的实践](CommunitySharings/RecommendersSvd.md)
 
 ## 发布 0.7 - 4/29/2018
